@@ -23,6 +23,10 @@ general and could completely replace its place.
 
 Compiler. Compiler can be and should be a versatile tool to write code safe and once for every platform. Rust is a great example of it.
 
+In our plans we will write our compiler with frontend to LLVM. We consider somehow support decompilation existing binaries to our language.
+
+Compiler and language will be open-source and locate in this repo too.
+
 ## Where I can check progress or read about it?
 
 - [Design sheet](/language.md)
